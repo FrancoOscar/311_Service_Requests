@@ -1,4 +1,4 @@
-_## Description of the Dataset:
+## Description of the Dataset:
 The dataset containing 311 Service Requests received by the City of Chicago is a repository of citizen-reported incidents and service requests within the city of Chicago. This database contains a large volume of records spanning many years. It's made up 8.66 million rows and 39 columns. Each row represents a service request, while the columns contain attributes related to the service call.
 
 The data is collected through the 311 system, where residents can report non-emergency issues and request city services. The 311 system provides an important channel for citizens to communicate their concerns and issues to the city with transparency and accountability. Potential users of the 311 Service Request dataset may include city officials, urban planners, and researchers seeking to analyze patterns and trends in service requests, resource allocation, or decision-making by city agencies. Additionally, it can be a valuable resource for citizens interested in assessing the quality of services and promoting civic engagement in Chicago.
